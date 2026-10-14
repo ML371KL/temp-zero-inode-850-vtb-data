@@ -1,0 +1,3 @@
+[
+{"published_at": "2026-10-14T22:51:36+00:00", "event": "publish", "payload_sha256": "d18634598d28d5e6287ac9c897de3d3bc1dfab7ef3079f5705b35576e6784a86", "previous_sha256": null, "generated_at": "2026-10-14T22:51:34+00:00", "valuation_date": "2026-10-14", "facts_date": "2026-06-30", "book_version": "0.8", "engine_commit": "521f4e346e95a6760f2e132eb39d4e85fdd14a6b", "prices": {"VTBR": 55.02}, "median": 61.5, "band80": [38.59, 88.3], "band50": [48.42, 75.91], "point": 64.07, "printed_median": 62.0, "bytes": 410565}
+]
